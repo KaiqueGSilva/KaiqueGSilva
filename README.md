@@ -1,18 +1,46 @@
-<h1 align="center">Hi ??, I'm KaiqueGSilva</h1>
-<h3 align="center">A student developer from Brazil</h3>
 
-- ?? I’m currently learning **Dart, JavaScript**
+<h1 align="center">👋🏻 Hi! I'm Kaique</h1>
+<h3 align="center">I am a student in programming and welcome to my profile 🤗</h3>
 
-- ?? How to reach me **kaka.gon.silva@gmail.com**
+<div align="center">
+<img align="center" alt="jpg" width="250px" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivianelf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivianelf" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<ul>
+<li>💻 Student and Junior Full Stack Developer (Senac) </li>
+<li>🎮 I love to play video games! </li>
+<li>👨🏻‍💻 Fascinated by technlogy </li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquegsilva&show_icons=true&locale=en&layout=compact" alt="kaiquegsilva" /></p>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+    <a href="https://github.com/KaiqueGSilva" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/askt4z" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/kaique-gon%C3%A7alves-0686a6231/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://wa.me/5511959460001" target="_blank">
+    <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=whatssapp style="margin-bottom: 5px;" />
+    </a>  
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiquegsilva&show_icons=true&locale=en" alt="kaiquegsilva" /></p>
+<h3 align="center">Languages and Tools:</h3>
+
+<div align="center>
+<img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img height="30" src="https://img.shields.io/badge/-Dart-9cf?style=for-the-badge&logo=Dart"> <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img height="30" src="https://img.shields.io/badge/-Android%20Studio%20-blue?style=for-the-badge&logo=AndroidStudio">
+</div>
+<br>
+
+<div align="center">
+    <a href="https://github.com/KaiqueGSilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueGSilva&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaiqueGSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/KaiqueGSilva/KaiqueGSilva/blob/output/github-contribution-grid-snake.svg)
