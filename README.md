@@ -9,7 +9,7 @@
 <br>
 
 <ul>
-<li>💻 Student and Junior Full Stack Developer (Senac) </li>
+<li>💻 Student in Full Stack Development (Senac) </li>
 <li>🎮 I love to play video games! </li>
 <li>👨🏻‍💻 Fascinated by technlogy </li>
 </ul>
